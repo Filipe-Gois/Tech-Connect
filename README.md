@@ -103,7 +103,7 @@ Além disso, a plataforma conta com funcionalidades modernas de autenticação, 
         <figcaption>Tela de autenticação Desktop</figcaption>
     </figure>
     <figure>
-        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home" style="width: 100%; height: 500px; object-fit: cover; margin-top:100px">
+        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home" style="width: 100%; height: 500px; object-fit: cover;">
         <figcaption>Tela Home Desktop</figcaption>
     </figure>
     <figure>
