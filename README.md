@@ -99,19 +99,19 @@ Além disso, a plataforma conta com funcionalidades modernas de autenticação, 
 
 <div>
     <figure>
-        <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Desktop.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+        <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Desktop.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Tela de autenticação Desktop</figcaption>
     </figure>
     <figure>
-        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Tela Home Desktop</figcaption>
     </figure>
     <figure>
-        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_desktop.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_desktop.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Tela De Perfil Desktop</figcaption>
     </figure>
      <figure>
-        <img src="./Assets/Tela_de_chat/tela-de-chat-desktop.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+        <img src="./Assets/Tela_de_chat/tela-de-chat-desktop.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Tela De Chat Desktop</figcaption>
     </figure>
 </div>
@@ -119,27 +119,27 @@ Além disso, a plataforma conta com funcionalidades modernas de autenticação, 
 - ## Modais Da Aplicação
 <div>
     <figure>
-      <img src="./Assets/Modais/Modal de comentário.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal de comentário.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Modal de comentário de uma publicação</figcaption>
     </figure>
     <figure>
-      <img src="./Assets/Modais/Modal de publicação com imagem e texto para postagem.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal de publicação com imagem e texto para postagem.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Modal para cadastro de publicação</figcaption>
     </figure>
     <figure>
-      <img src="./Assets/Modais/Modal de publicação com validação de conteudo.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal de publicação com validação de conteudo.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Validação de conteúdo com Azure Content Moderator.</figcaption>
     </figure>
     <figure>
-      <img src="./Assets/Modais/Modal de publicação com validação.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal de publicação com validação.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Validação de cadastro da postagem.</figcaption>
     </figure>
     <figure>
-      <img src="./Assets/Modais/Modal de seguidores de um usuário.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal de seguidores de um usuário.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Modal para exibição dos seguidores do usuário.</figcaption>
     </figure>
     <figure>
-      <img src="./Assets/Modais/Modal que exibe quem o usuário segue.png" alt="Tela Home" style="width: 1000px; height: 300px; object-fit: cover;">
+      <img src="./Assets/Modais/Modal que exibe quem o usuário segue.png" alt="Tela Home" style="width: 600px; height: 300px; object-fit: cover;">
         <figcaption>Modal para exibir quem o usuário segue.</figcaption>
     </figure>
 </div>
