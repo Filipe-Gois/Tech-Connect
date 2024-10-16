@@ -95,73 +95,74 @@ Além disso, a plataforma conta com funcionalidades modernas de autenticação, 
 
 <!-- desktop -->
 
-### Fluxo no Desktop:
+- ## Fluxo no Desktop:
 
 <div>
-    <figure>
-        <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Desktop.png" alt="Tela de autenticação Desktop" style="width: 600px; height: 300px; object-fit: cover;">
+    <figure style="display: flex; flex-direction:column">
+        <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Desktop.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Tela de autenticação Desktop</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home Desktop" style="width: 600px; height: 300px; object-fit: cover;">
+    <figure style="display: flex; flex-direction:column">
+        <img src="./Assets/Tela_Home/Tela-inicial-desktop.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Tela Home Desktop</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_desktop.png" alt="Tela De Perfil Desktop" style="width: 600px; height: 300px; object-fit: cover;">
+    <figure style="display: flex; flex-direction:column">
+        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_desktop.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Tela De Perfil Desktop</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Tela_de_chat/tela-de-chat-desktop.png" alt="Tela De Chat Desktop" style="width: 600px; height: 300px; object-fit: cover;">
+     <figure style="display: flex; flex-direction:column">
+        <img src="./Assets/Tela_de_chat/tela-de-chat-desktop.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Tela De Chat Desktop</figcaption>
     </figure>
 </div>
 
-### Modais Da Aplicação:
-
+- ## Modais Da Aplicação
 <div>
-    <figure>
-        <img src="./Assets/Modais/Modal de comentário.png" alt="Modal de comentário" style="width: 600px; height: 300px; object-fit: cover;">
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal de comentário.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Modal de comentário de uma publicação</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Modais/Modal de publicação com imagem e texto para postagem.png" alt="Modal de publicação" style="width: 600px; height: 300px; object-fit: cover;">
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal de publicação com imagem e texto para postagem.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Modal para cadastro de publicação</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Modais/Modal de publicação com validação de conteudo.png" alt="Validação de conteúdo com Azure Content Moderator" style="width: 600px; height: 300px; object-fit: cover;">
-        <figcaption>Validação de conteúdo com Azure Content Moderator</figcaption>
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal de publicação com validação de conteudo.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
+        <figcaption>Validação de conteúdo com Azure Content Moderator.</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Modais/Modal de publicação com validação.png" alt="Validação de cadastro da postagem" style="width: 600px; height: 300px; object-fit: cover;">
-        <figcaption>Validação de cadastro da postagem</figcaption>
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal de publicação com validação.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
+        <figcaption>Validação de cadastro da postagem.</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Modais/Modal de seguidores de um usuário.png" alt="Seguidores do usuário" style="width: 600px; height: 300px; object-fit: cover;">
-        <figcaption>Modal para exibição dos seguidores do usuário</figcaption>
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal de seguidores de um usuário.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
+        <figcaption>Modal para exibição dos seguidores do usuário.</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Modais/Modal que exibe quem o usuário segue.png" alt="Usuários seguidos" style="width: 600px; height: 300px; object-fit: cover;">
-        <figcaption>Modal para exibir quem o usuário segue</figcaption>
+    <figure style="display: flex; flex-direction:column">
+      <img src="./Assets/Modais/Modal que exibe quem o usuário segue.png" alt="Tela Home" style="width: 100%; height: 300px; object-fit: cover;">
+        <figcaption>Modal para exibir quem o usuário segue.</figcaption>
     </figure>
 </div>
 
-### Fluxo no Mobile:
+<!-- Mobile -->
+
+- ## Fluxo no Mobile:
 
 <div>
     <figure>
-        <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Mobile.png" alt="Tela de autenticação Mobile" style="width: 200px; height: 400px; object-fit: cover;">
+      <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
         <figcaption>Tela de autenticação Mobile</figcaption>
     </figure>
     <figure>
-        <img src="./Assets/Tela_Home/Tela-inicial-mobile.png" alt="Tela Home Mobile" style="width: 200px; height: 400px; object-fit: cover;">
+        <img src="./Assets/Tela_Home/Tela-inicial-mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
         <figcaption>Tela Home Mobile</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_mobile.png" alt="Tela De Perfil Mobile" style="width: 200px; height: 400px; object-fit: cover;">
+     <figure>
+        <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
         <figcaption>Tela De Perfil Mobile</figcaption>
     </figure>
-    <figure>
-        <img src="./Assets/Tela_de_chat/tela-de-chat-mobile.png" alt="Tela De Chat Mobile" style="width: 200px; height: 400px; object-fit: cover;">
+     <figure>
+        <img src="./Assets/Tela_de_chat/tela-de-chat-mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
         <figcaption>Tela De Chat Mobile</figcaption>
     </figure>
 </div>
