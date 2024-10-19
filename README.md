@@ -151,18 +151,14 @@ Além disso, a plataforma conta com funcionalidades modernas de autenticação, 
 <div>
     <figure>
       <img src="./Assets/Tela_de_autenticação/Tela_de_autenticação_Mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
-        <figcaption>Tela de autenticação Mobile</figcaption>
     </figure>
     <figure>
         <img src="./Assets/Tela_Home/Tela-inicial-mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
-        <figcaption>Tela Home Mobile</figcaption>
-    </figure>
+          </figure>
      <figure>
         <img src="./Assets/Tela_de_Perfil/Tela_de_perfil_mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
-        <figcaption>Tela De Perfil Mobile</figcaption>
-    </figure>
+           </figure>
      <figure>
         <img src="./Assets/Tela_de_chat/tela-de-chat-mobile.png" alt="Tela Home" style="width: 200px; height: 400px; object-fit: cover;">
-        <figcaption>Tela De Chat Mobile</figcaption>
-    </figure>
+          </figure>
 </div>
